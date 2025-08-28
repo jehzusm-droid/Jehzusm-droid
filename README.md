@@ -8,9 +8,11 @@ Apaixonado por tecnologia e pesquisa, com uma trajetória que começou na área 
 🚀 Projetos em desenvolvimento
 
 📝 App com tarefas rotina diária(https://github.com/jehzusm-droid/personalnotebook)
+
 🌐 Página pessoal com portfólio (https://github.com/jehzusm-droid/Jehzusm-droid)
 
 📫 onde me encontrar
 
 ✅LinkedIn:https://www.linkedin.com/in/jesus-moura-361bb1380/
-✅GitHub:https:?/github.com/jehzusm-droid
+
+✅GitHub:https://github.com/jehzusm-droid
