@@ -2,7 +2,9 @@
 Apaixonado por tecnologia e pesquisa, com uma trajetória que começou na área da saúde — e hoje se transforma em soluções digitais com propósito.
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+
 💻 Explorando Front-End com HTML, CSS, JavaScript, phyton, C# e SQL.
+
 🧠 Foco em projetos que promovem bem-estar e organização pessoal
 
 🚀 Projetos em desenvolvimento
