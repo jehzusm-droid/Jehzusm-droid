@@ -1,16 +1,16 @@
-## Hi there 👋
+👋 Olá!,
+Apaixonado por tecnologia e pesquisa, com uma trajetória que começou na área da saúde — e hoje se transforma em soluções digitais com propósito.
 
-<!--
-**jehzusm-droid/Jehzusm-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Explorando Front-End com HTML, CSS, JavaScript, phyton, C# e SQL
+🧠 Foco em projetos que promovem bem-estar e organização pessoal
 
-Here are some ideas to get you started:
+🚀 Projetos em desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📝 App com tarefas rotina diária(https://github.com/jehzusm-droid/personalnotebook)
+🌐 Página pessoal com portfólio (https://github.com/jehzusm-droid/Jehzusm-droid)
+
+📫 onde me encontrar
+
+✅LinkedIn:https://www.linkedin.com/in/jesus-moura-361bb1380/
+✅GitHub:https:?/github.com/jehzusm-droid
