@@ -3,7 +3,7 @@ Apaixonado por tecnologia e pesquisa, com uma trajetória que começou na área 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
 
-💻 Explorando Front-End com HTML, CSS, JavaScript, phyton, C# e SQL.
+💻 Explorando HTML, CSS, JavaScript, phyton, C# e SQL.
 
 🧠 Foco em projetos que promovem bem-estar e organização pessoal
 
